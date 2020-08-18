@@ -1,4 +1,14 @@
-div.main {
+div.bgimg {
   background-image: url("mainbg.jpg");
   background-color: #000000;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  height: inherit;
+  font-family: "Baloo Tamma 2";
+  font-size: 22px;
+  color: #FFFFFF;
+}
+div.overlord {
+  height: 100%;
 }
